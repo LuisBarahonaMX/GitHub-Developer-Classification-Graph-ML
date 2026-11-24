@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./github_graph_ml.png" alt="GitHub Developer Classification — Graph Machine Learning and Ensemble Models" width="750">
+<img src="./Clasificación de desarrolladores con aprendizaje gráfico.png" alt="GitHub Developer Classification — Graph Machine Learning and Ensemble Models" width="750">
 
 *Graph Machine Learning — Developer network analysis, feature engineering, and classification using ensemble models.*
 
